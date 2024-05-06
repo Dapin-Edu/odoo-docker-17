@@ -1,4 +1,4 @@
-# Installation of Odoo 16 with docker-compose
+# Installation of Odoo 17 with docker-compose
 ### Requirements
 * Docker and docker-compose installed
 
